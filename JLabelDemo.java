@@ -1,7 +1,5 @@
-// Peter's
 import java.awt.*;
 import hsa.Console;
-//From Peter
 import javax.swing.*;
 public class JLabelDemo
 {
