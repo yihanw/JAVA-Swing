@@ -1,2 +1,2 @@
 # Java-swing
-Some useful GUI applets I wrote
+Some useful GUI applets
