@@ -9,7 +9,7 @@ public class JLabelDemo
 
     public static void main (String[] args)
     {
-	String st = "THIS IS A LABEL... BORING!";
+	String st = "THIS IS A LABEL";
 	Font f = new Font ("Serif", Font.ITALIC + Font.BOLD, 33);
 
 	JLabel demoLabel1 = new JLabel (st);
@@ -19,7 +19,7 @@ public class JLabelDemo
 	// creates a JLabel object called demoLabel1
 	//containing the string st
 	// give it some Font stuff!
-	JLabel imageLabel1 = new JLabel ("OBEY ME!!!! YOU HIGHSCHOOL FOOLS!!");
+	JLabel imageLabel1 = new JLabel ("NEW LABEL");
 	imageLabel1.setFont (f);
 	imageLabel1.setForeground (Color.blue);
 	imageLabel1.setIcon (new ImageIcon ("STEWY.jpg"));
@@ -33,7 +33,7 @@ public class JLabelDemo
 	JOptionPane.showMessageDialog (null, imageLabel1,
 		"JIMAGELABEL1",
 		JOptionPane.INFORMATION_MESSAGE);
-	JLabel imageLabel2 = new JLabel (" \nTalk to me!\nYes.. you troglidites!");
+	JLabel imageLabel2 = new JLabel (" \nTalk to me!\n ");
 	imageLabel2.setFont (f);
 	imageLabel2.setForeground (Color.blue);
 	imageLabel2.setIcon (new ImageIcon ("STEWY.jpg"));
