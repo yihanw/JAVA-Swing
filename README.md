@@ -24,16 +24,16 @@ Some useful GUI applets
 ![Alt text](img/MenusDemo.PNG?raw=true "MenusDemo")
 	
 ##MouseDrag
-  A Program that tracks the mouse movement and reports its coordinate.                   
+  A Program that tracks the mouse movement and reports its coordinate.                                        
 ![Alt text](img/MouseDrag.PNG?raw=true "MouseDrag")
+
+##MousePlay
+  A program that tracks the mouse movement and reports its coordinate when entered, exited, clicked, pressed or released.
 
 ##WelcomeApplet 
   A Program that prints a string with specific co-ordinations
 ![Alt text](img/WelcomeApplet.PNG?raw=true "WelcomeApplet")
 	
-##dataEntry
-  A Program that creates a form for user response using text fields, information is saved after clicking on button "ENTER".
-![Alt text](img/dataEntry.PNG?raw=true "dataEntry")
 	
 ##mcRadio
   A Program that creates 4 radio buttons, when a button is clicked, the response appears in a text field.
