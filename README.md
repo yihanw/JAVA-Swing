@@ -29,9 +29,10 @@ Some useful GUI applets
 
 ##MousePlay
   A program that tracks the mouse movement and reports its coordinate when entered, exited, clicked, pressed or released.
+ ![Alt text](img/MousePlay.PNG?raw=true "MousePlay")
 
 ##WelcomeApplet 
-  A Program that prints a string with specific co-ordinations
+  A Program that prints a string with specific co-ordinations                         
 ![Alt text](img/WelcomeApplet.PNG?raw=true "WelcomeApplet")
 	
 	
